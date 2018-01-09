@@ -3,7 +3,7 @@ require "formula"
 class Google-Drive-Ocamlfuse < Formula
   url "https://github.com/astrada/google-drive-ocamlfuse/tarball/master.tar.gz"
   homepage "https://github.com/astrada/google-drive-ocamlfuse"
-  sha1 "dc5c0563c2a43072c53d23fd7e51aafe0b79474c"
+  sha256 "86d17752180945b8d76048e5671ccd6149bdb36d"
 
   depends_on "ocaml"
   depends_on "opam"
