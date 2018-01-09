@@ -1,6 +1,6 @@
 require "formula"
 
-class google-drive-ocamlfuse < Formula
+class Google-Drive-Ocamlfuse < Formula
   url "https://github.com/astrada/google-drive-ocamlfuse/tarball/master.tar.gz"
   homepage "https://github.com/astrada/google-drive-ocamlfuse"
   sha1 "dc5c0563c2a43072c53d23fd7e51aafe0b79474c"
